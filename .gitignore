@@ -1,0 +1,6 @@
+results/
+*.out
+*.rds
+.Rhistory
+.RData
+_r_lib/

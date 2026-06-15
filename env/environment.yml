@@ -1,0 +1,19 @@
+name: transgam-r
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.3
+  - r-mass
+  - r-survival
+  - r-glmnet
+  - r-mgcv
+  - r-timeroc
+  - r-ranger
+  - r-xgboost
+  - r-data.table
+  - r-foreach
+  - r-iterators
+  - r-pec
+  - r-prodlim
+  - r-lava
+  - r-timereg
